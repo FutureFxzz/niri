@@ -670,3 +670,7 @@ gestures {
         off
     }
 }
+cursor {
+    xcursor-theme "Adwaita"
+    xcursor-size 24
+}
